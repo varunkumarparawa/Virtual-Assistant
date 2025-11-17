@@ -15,8 +15,9 @@ A simple, browser-based Virtual Assistant developed using HTML, CSS, and JavaScr
 
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **APIs:** Web Speech API (Speech Recognition + Speech Synthesis)
-- 
-## ⚙️ How to Run Locally
+  
+## ⚙️ How to Run 
+https://virtualiassistant.netlify.app/
 
 1. Clone the repository:
 
